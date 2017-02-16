@@ -1,0 +1,5 @@
+D:\CSharp\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+D:\CSharp\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+D:\CSharp\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+D:\CSharp\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+D:\CSharp\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb
